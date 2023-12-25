@@ -98,7 +98,7 @@ void loop() {
   digitalWrite(motor3Pin2, LOW);
   digitalWrite(motor4Pin1, HIGH);
   digitalWrite(motor4Pin2, LOW);
-  delay(2000);
+  delay(2000); 
 
   // Stop the DC motors
   digitalWrite(motor1Pin1, LOW);
